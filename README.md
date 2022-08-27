@@ -1,15 +1,21 @@
-<img src = "giphy.gif" width = "325px"> 
+<img src = "giphy.gif" width = "400px"> 
 
 # Seja bem vindo e bem vinda ao meu GitHub!
 Sou estudante de sistemas computacionais - COPPE UFRJ.
 
+
 <div>
----
+  
+  
+<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
 
-🧰 Toolbox
+<img align="left" alt="C++" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
----
+<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+
+<img align="left" alt="r" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 
 </div>
