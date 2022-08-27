@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "400px"> 
+<img src = "giphy.gif" width = "400px" align="right"> 
 
 # Seja bem vindo e bem vinda ao meu GitHub!
 Sou estudante de sistemas computacionais - COPPE UFRJ.
