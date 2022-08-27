@@ -1,8 +1,10 @@
 <img src = "giphy.gif" width = "400px" align="right"> 
 
-# Seja bem vindo e bem vinda ao meu GitHub!
+# :heart: Seja bem vindo e bem vinda ao meu GitHub!
 Sou estudante de sistemas computacionais - COPPE UFRJ.
 
+- Estudante de machine learning e IA
+- Estudante de HPC
 
 <div>
   
