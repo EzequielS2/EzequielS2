@@ -20,4 +20,7 @@ Sou estudante de sistemas computacionais - COPPE UFRJ.
 
 <img align="left" alt="r" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 
+
+<img align="left" alt="r" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+
 </div>
