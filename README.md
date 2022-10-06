@@ -5,7 +5,7 @@ Sou estudante de pós-graduação em sistemas computacionais - COPPE UFRJ.
 
 - Estudante de Machine Learning, Artificial Intelligence e Neural Network
 - Estudante de HPC
-- Estudante de Ciência de Dados
+- Estudante de Data Science
 
 <div>
   
