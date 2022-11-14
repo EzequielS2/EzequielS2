@@ -3,7 +3,7 @@
 # :heart: Seja bem vindo e bem vinda ao meu GitHub!
 Sou estudante de pós-graduação em sistemas computacionais - COPPE UFRJ.
 
-- Estudante de Machine Learning, Artificial Intelligence e Neural Network
+- Estudante de Machine Learning, Artificial Intelligence e Deep Learning
 - Estudante de HPC
 - Estudante de Data Science
 
