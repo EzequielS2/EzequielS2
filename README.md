@@ -1,7 +1,6 @@
 <img src = "giphy.gif" width = "400px" align="right"> 
 
 # :heart: Seja bem vindo e bem vinda ao meu GitHub!
-Sou estudante de pós-graduação em sistemas computacionais - COPPE UFRJ.
 
 - Estudante de Machine Learning, Artificial Intelligence e Deep Learning
 - Estudante de HPC
