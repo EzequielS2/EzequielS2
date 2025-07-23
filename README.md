@@ -1,6 +1,6 @@
 <img src = "giphy.gif" width = "400px" align="right"> 
 
-# :heart: Seja bem vindo e bem vinda ao meu GitHub!
+# Bem vindo!
 
 - Estudante de Machine Learning, Artificial Intelligence e Deep Learning
 - Estudante de HPC
