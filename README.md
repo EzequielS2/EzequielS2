@@ -2,7 +2,7 @@
 
 # Bem vindo!
 
-- Estudante de Machine Learning, Artificial Intelligence e Deep Learning
+- Estudante de Machine Learning (...Deep Learning)
 - Estudante de HPC
 - Estudante de Data Science
 
