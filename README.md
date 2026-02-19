@@ -1,4 +1,4 @@
-<img src = "rock-lee-naruto.gif" width = "300px" align="right"> 
+<img src = "rock-lee-naruto.gif" width = "500px" align="right"> 
 
 # Bem vindo!
 
