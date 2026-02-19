@@ -1,7 +1,7 @@
 # Bem vindo!
 <hr>
 
-<img src="rock-lee-naruto.gif" width="300px" align="right" alt="Rock Lee">
+<img src="rock-lee-naruto.gif" width="500px" align="right" alt="Rock Lee">
 
 <ul>
   <li>Machine Learning Student (...Deep Learning)</li>
