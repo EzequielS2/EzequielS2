@@ -1,33 +1,28 @@
-<img src = "rock-lee-naruto.gif" width = "500px" align="right"> 
-
 # Bem vindo!
+<hr>
 
-- Estudante de Machine Learning (...Deep Learning)
-- Estudante de HPC
-- Estudante de Data Science
+<img src="rock-lee-naruto.gif" width="300px" align="right" alt="Rock Lee">
 
+<ul>
+  <li>Machine Learning Student (...Deep Learning)</li>
+  <li>HPC (High-Performance Computing) Student</li>
+  <li>Data Science Student</li>
+</ul>
+
+<br>
+
+
+<div>
+  <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="JS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-  
-<img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
-
-<img align="left" alt="C++" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
-
-<img align="left" alt="R" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
-
-<img align="left" alt="HTML" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-
-<img align="left" alt="CSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="React" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-
-<img align="left" alt="SQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-
-
-</div>
+<br clear="left"/>
