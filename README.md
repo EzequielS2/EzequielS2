@@ -1,10 +1,12 @@
-<img src = "rock-lee-naruto.gif" width = "400px" align="right"> 
+<img src = "rock-lee-naruto.gif" width = "300px" align="right"> 
 
 # Bem vindo!
 
 - Estudante de Machine Learning (...Deep Learning)
 - Estudante de HPC
 - Estudante de Data Science
+
+</div>
 
   
 <img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
