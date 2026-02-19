@@ -6,8 +6,6 @@
 - Estudante de HPC
 - Estudante de Data Science
 
-<div>
-  
   
 <img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" />
 
